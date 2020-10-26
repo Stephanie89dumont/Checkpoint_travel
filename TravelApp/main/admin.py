@@ -1,3 +1,6 @@
 from django.contrib import admin
 
-# Register your models here.
+from .models import Travel, Step
+
+admin.site.register(Travel)
+admin.site.register(Step)
