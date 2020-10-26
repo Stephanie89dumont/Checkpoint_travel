@@ -3,6 +3,7 @@
     padding-bottom: 3rem;
     margin-bottom: 0;
     background-color: #fff;
+    background-image: url(photos/montagne2.jpg);
   }
   @media (min-width: 768px) {
     .jumbotron {
